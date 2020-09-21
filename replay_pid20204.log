@@ -1,0 +1,21 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 160 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 7622 0 -1
+ciMethod java/lang/String <init> ([CII)V 2049 1 1497 0 -1
+ciMethod java/lang/String charAt (I)C 4097 1 111506 0 -1
+ciMethod java/lang/System arraycopy (Ljava/lang/Object;ILjava/lang/Object;II)V 7169 1 896 0 -1
+ciMethod java/lang/RuntimeException <init> (Ljava/lang/String;)V 0 0 1 0 -1
+ciMethod java/lang/AbstractStringBuilder <init> (I)V 1265 1 750 0 -1
+ciMethod java/lang/AbstractStringBuilder ensureCapacityInternal (I)V 2809 1 5953 0 -1
+ciMethod java/lang/AbstractStringBuilder newCapacity (I)I 841 1 653 0 -1
+ciMethod java/lang/AbstractStringBuilder append (Ljava/lang/String;)Ljava/lang/AbstractStringBuilder; 2329 1 988 0 -1
+ciMethod java/lang/AbstractStringBuilder append (C)Ljava/lang/AbstractStringBuilder; 4097 1 4697 0 -1
+ciMethod java/lang/StringBuilder <init> ()V 921 1 389 0 -1
+ciMethod java/lang/StringBuilder append (Ljava/lang/String;)Ljava/lang/StringBuilder; 2017 1 922 0 -1
+ciMethod java/lang/StringBuilder append (C)Ljava/lang/StringBuilder; 3785 1 2448 0 -1
+ciMethod java/lang/StringBuilder toString ()Ljava/lang/String; 1025 1 466 0 -1
+ciMethod java/lang/Math min (II)I 3761 1 3599 0 -1
+ciMethod java/util/Arrays copyOf ([CI)[C 1089 1 736 0 -1
+ciMethodData java/lang/String charAt (I)C 2 111506 orig 264 88 131 213 95 0 0 0 0 104 61 239 22 0 0 0 0 120 1 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 145 140 13 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 80 0 0 0 255 255 255 255 7 0 1 0 0 0 0 0 data 10 0x10007 0x0 0x40 0x1b192 0xa0007 0x1b192 0x30 0x0 0x120002 0x0 oops 0
