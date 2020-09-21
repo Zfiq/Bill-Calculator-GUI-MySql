@@ -1,6 +1,4 @@
 package billcalculator;
-//Name Zafar Iqbal
-//Student ID 1671637
 import java.awt.Container;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
